@@ -16,7 +16,7 @@ CONTRAS: Todos los registros que se han obtenido de la consulta se han instancia
 
 La segunda aproximación mitiga el efecto no deseado de la primera en la rama feature-custom-repository
 
-https://github.com/kaizen-org/demo-price-list/blob/c038fb4a268f12d3fd6a7166c4c2b3db204eb7ff/src/main/java/com/zara/prices/repository/PriceRepositoryCustomImpl.java#L138
+https://github.com/gabicasas/price-list/blob/81bc512d55273cf694601dcd121a3fd63806be24/src/main/java/com/zara/prices/repository/PriceRepositoryCustomImpl.java#L13
 
 PROS: Solo se instancia la entity que se usará 
 
